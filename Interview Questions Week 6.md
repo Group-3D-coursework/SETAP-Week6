@@ -71,7 +71,7 @@
 <ul>
   <li>Some users currently use apps and smart devices, while others rely on <strong>personal routines</strong> like journaling, mindful breathing, or simply observing their moods.</li>
 </ul>
-<h>
+<hr>
 <h1>Key Specifications and User Requirements</h1>
 
 <p>Based on the gathered user responses, the following core specifications have been identified:</p>
